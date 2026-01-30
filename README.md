@@ -47,8 +47,8 @@ A modern, fully containerized recipe blog application built with Next.js, TypeSc
 ### 1. Clone the Repository
 
 ```bash
-git clone 
-cd 
+[git clone ](https://github.com/Ravindra-Reddy27/Next.js-Internationalized-Recipe-Blog.git)
+cd Next.js-Internationalized-Recipe-Blog
 ```
 
 ### 2. Create Environment File
