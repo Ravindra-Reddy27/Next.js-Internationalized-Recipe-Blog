@@ -1,0 +1,18 @@
+{
+  "search_placeholder": "Search recipes...",
+  "ingredients_heading": "Ingredients",
+  "instructions_heading": "Instructions",
+  "minutes_label": "minutes",
+  "back_to_recipes": "Back to Recipes",
+  "hero_subtitle": "Discover delicious meals for any occasion.",
+  "view_recipe": "View Recipe",
+  "all_recipes": "All Recipes",
+  "all_categories": "All Categories",
+  "no_recipes_found": "No recipes found matching your criteria.",
+  "share_twitter": "Share on Twitter",
+  "newsletter_title": "Subscribe to our newsletter",
+  "newsletter_placeholder": "Enter your email",
+  "newsletter_button": "Subscribe",
+  "newsletter_error": "Please enter a valid email address.",
+  "newsletter_success": "Thank you for subscribing!"
+}

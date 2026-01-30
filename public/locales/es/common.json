@@ -1,0 +1,18 @@
+{
+  "search_placeholder": "Buscar recetas...",
+  "ingredients_heading": "Ingredientes",
+  "instructions_heading": "Instrucciones",
+  "minutes_label": "minutos",
+  "back_to_recipes": "Volver a las recetas",
+  "hero_subtitle": "Descubre comidas deliciosas para cualquier ocasión.",
+  "view_recipe": "Ver receta",
+  "all_recipes": "Todas las recetas",
+  "all_categories": "Todas las categorías",
+  "no_recipes_found": "No se encontraron recetas que coincidan con sus criterios.",
+  "share_twitter": "Compartir en Twitter",
+  "newsletter_title": "Suscríbete a nuestro boletín",
+  "newsletter_placeholder": "Introduce tu correo",
+  "newsletter_button": "Suscribirse",
+  "newsletter_error": "Por favor, introduce un correo válido.",
+  "newsletter_success": "¡Gracias por suscribirte!"
+}

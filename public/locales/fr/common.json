@@ -1,0 +1,18 @@
+{
+  "search_placeholder": "Rechercher des recettes...",
+  "ingredients_heading": "Ingrédients",
+  "instructions_heading": "Instructions",
+  "minutes_label": "minutes",
+  "back_to_recipes": "Retour aux recettes",
+  "hero_subtitle": "Découvrez des plats délicieux pour toutes les occasions.",
+  "view_recipe": "Voir la recette",
+  "all_recipes": "Toutes les recettes",
+  "all_categories": "Toutes les catégories",
+  "no_recipes_found": "Aucune recette ne correspond à vos critères.",
+  "share_twitter": "Partager sur Twitter",
+  "newsletter_title": "Abonnez-vous à notre newsletter",
+  "newsletter_placeholder": "Entrez votre email",
+  "newsletter_button": "S'abonner",
+  "newsletter_error": "Veuillez entrer une adresse email valide.",
+  "newsletter_success": "Merci de vous être abonné !"
+}
